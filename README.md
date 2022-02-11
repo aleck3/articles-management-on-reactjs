@@ -1,6 +1,9 @@
 # Single Page Application for articles management on ReactJS.
 
+## Home Page
 <img src="readmeImg.JPG">
+
+## Article Page
 <img src="readmeImg2.JPG">
 
 ## Project features
